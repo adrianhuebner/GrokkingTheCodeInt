@@ -19,8 +19,33 @@ Output: 7
 ```
 
 **Time and Space Complexity:**  
-Space Complexity: 
-Time Complexity: 
+Space Complexity: O(N)
+Time Complexity: O(1)
 
 **Whiteboard Image:**  
 ![MaxSumSubarray](/assets/maxSumSubarray.jpg)
+
+-----
+### Smallest Subarray of a Given Sum
+
+**Problem Domain:** Given an array of positive numbers and a positive number 'S', find the length of the smallest contiguous subarray whose sum is greater than or equal to 'S'. Return 0, if no such subarray exists.
+
+**Input and Output:**
+```
+Input: [2, 1, 5, 2, 3, 2], S = 7  
+Output: 2
+
+Input: [2, 1, 5, 2, 8], S = 7  
+Output: 1
+
+Input: [3, 4, 1, 1, 6], S = 8  
+Output: 3
+```
+
+**Time and Space Complexity:**  
+Space Complexity:  
+Time Complexity:
+
+**Whiteboard Image:**
+
+----
