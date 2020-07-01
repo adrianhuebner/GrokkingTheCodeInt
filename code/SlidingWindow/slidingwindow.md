@@ -19,7 +19,7 @@ Output: 7
 ```
 
 **Time and Space Complexity:**  
-Space Complexity: O(N)
+Space Complexity: O(N)  
 Time Complexity: O(1)
 
 **Whiteboard Image:**  
