@@ -23,7 +23,7 @@ Space Complexity: O(N)
 Time Complexity: O(1)
 
 **Whiteboard Image:**  
-![MaxSumSubarray](/assets/maxSumSubarray.jpg)
+![MaxSumSubarray](./assets/maxSumSubarray.jpg)
 
 -----
 ### Smallest Subarray of a Given Sum
@@ -40,6 +40,9 @@ Output: 1
 
 Input: [3, 4, 1, 1, 6], S = 8  
 Output: 3
+
+Input: [1, 1, 2, 3], S = 9  
+Output: 0
 ```
 
 **Time and Space Complexity:**  
@@ -47,5 +50,5 @@ Space Complexity:
 Time Complexity:
 
 **Whiteboard Image:**
-
+![SmallestSubarrayGivenSum](./assts/SmallestSubarray)
 ----
