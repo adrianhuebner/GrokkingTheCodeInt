@@ -24,7 +24,7 @@ Time Complexity: O(1)
 
 **Whiteboard Image:**  
 
-![MaxSumSubarray](./assets/maxSumSubarray.jpg)
+![MaxSumSubarray](/assets/MaxSumSubarray.jpg)
 
 -----
 ### Smallest Subarray of a Given Sum
@@ -52,6 +52,6 @@ Time Complexity:
 
 **Whiteboard Image:**
 
-![SmallestSubarrayGivenSum](./assts/SmallestSubarrayGivenSum.jpg)
+![SmallestSubarrayGivenSum](/assets/SmallestSubarrayGivenSum.jpg)
 
 ----
