@@ -23,6 +23,7 @@ Space Complexity: O(N)
 Time Complexity: O(1)
 
 **Whiteboard Image:**  
+
 ![MaxSumSubarray](./assets/maxSumSubarray.jpg)
 
 -----
@@ -50,5 +51,7 @@ Space Complexity:
 Time Complexity:
 
 **Whiteboard Image:**
-![SmallestSubarrayGivenSum](./assts/SmallestSubarray)
+
+![SmallestSubarrayGivenSum](./assts/SmallestSubarrayGivenSum.jpg)
+
 ----
